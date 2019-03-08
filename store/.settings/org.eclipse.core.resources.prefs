@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/itheima/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/com/itheima/domain/User.java=UTF-8
+encoding//src/com/itheima/myconventer/MyConvebter.java=UTF-8
+encoding//src/com/itheima/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/com/itheima/utils/DataSourceUtils.java=UTF-8
+encoding//src/com/itheima/web/filter/EncodingFilter.java=UTF-8
+encoding//src/com/itheima/web/servlet/BaseServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/IndexServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/UserServlet.java=UTF-8
+encoding/<project>=UTF-8
